@@ -2,5 +2,7 @@
     <string name="app_name">Bleros</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="board_name">%1$s</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_boards">Boards</string>
 </resources>
