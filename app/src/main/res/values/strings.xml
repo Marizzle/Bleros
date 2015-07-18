@@ -2,5 +2,6 @@
     <string name="app_name">Bleros</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="mecos_mcs">MECOS</string>
     <string name="action_settings">Settings</string>
 </resources>
